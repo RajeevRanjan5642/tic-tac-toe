@@ -4,7 +4,7 @@
 }
 
 h1{
-    padding: 3rem;
+    padding: 3vmin;
     font-size: 3.5rem;
     font-family: "Poppins", sans-serif;
     font-weight: 800;
@@ -50,7 +50,7 @@ body{
 }
 
 #reset-btn{
-    padding: 1rem;
+    padding: 1.5rem;
     font-size: 1.15rem;
     background-color: #143642;
     color:  #dad2d8;
