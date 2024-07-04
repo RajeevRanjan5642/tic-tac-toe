@@ -17,7 +17,7 @@ body{
 }
 
 .container{
-    height: 65vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ body{
 
 #reset-btn{
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     background-color: #143642;
     color:  #dad2d8;
     border-radius: 1rem;
