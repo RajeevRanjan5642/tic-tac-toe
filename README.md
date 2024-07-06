@@ -2,7 +2,7 @@
 
 ## Overview :
 The Tic Tac Toe game is a classic two-player board game where each player takes turns marking a 3x3 grid with their symbol (either “X” or “O”). The goal is to form a line of three of your symbols (horizontally, vertically, or diagonally) before your opponent does.
-
+<br>
 ## Features :
 <ol>
 <li><b>Interactive Board:</b> The game provides a visual grid where players can click on cells to make their moves.</li>
@@ -11,6 +11,7 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 <li><b>Draw Condition:</b> If all cells are filled and no winner is determined, the game ends in a draw.</li>
 <li><b>Reset Button:</b> Players can start a new game by clicking a “Reset” button.</li>
 </ol>
+
 
 ## Implementation :
 <ul>
@@ -25,6 +26,7 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
   </li>
 </ul>
 
+
 ## How to Play :
 <ol>
 <li>Clone the repo and open html file in browser or simply copy the link below and open it in your browser:</li><br>
@@ -36,7 +38,6 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 <li>The first player to form a line of three symbols wins!</li>
 <li>If no winner is determined, the game ends in a draw.</li>
 </ol>
-
-Feel free to share the game with your friends and have fun playing 🎮 Tic Tac Toe ❌⭕ with them.
-
+<br>
+Feel free to share the game with your friends and have fun playing 🎮 Tic Tac Toe ❌⭕ with them.<br>
 If you’d like, you can also add additional features or explore different variations of the game. Happy coding! 😊
