@@ -14,7 +14,7 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 
 ## Implementation 👨🏻‍💻:
 <ul>
-<li><b>HTML:</b> The game board is created using an HTML table with clickable cells.</li>
+<li><b>HTML:</b> The structure of game board is created using HTML.</li>
 <li><b>CSS:</b> Styling is applied to the board, cells, and buttons to make the game visually appealing.</li>
 <li><b>JavaScript:</b>
   <ul>
