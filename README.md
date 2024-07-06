@@ -1,4 +1,4 @@
-# Tic Tac Toe Game ❌⭕
+# Tic Tac Toe Game ❌⭕🎮
 
 ## Overview 🔎:
 The Tic Tac Toe game is a classic two-player board game where each player takes turns marking a 3x3 grid with their symbol (either “X” or “O”). The goal is to form a line of three of your symbols (horizontally, vertically, or diagonally) before your opponent does.
