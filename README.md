@@ -27,7 +27,9 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 
 ## How to Play :
 <ul>
-<li>Open the game in a web browser.</li>
+<li>Clone the repo and open html file in browser or click on link below (Github pages):</li>
+
+    
 <li>Click on an empty cell to place your symbol (“X” or “O”).</li>
 <li>The game will automatically switch turns.</li>
 <li>The first player to form a line of three symbols wins!</li>
