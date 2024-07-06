@@ -1,19 +1,18 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game ❌⭕
 
-## Overview :
+## Overview 🔎:
 The Tic Tac Toe game is a classic two-player board game where each player takes turns marking a 3x3 grid with their symbol (either “X” or “O”). The goal is to form a line of three of your symbols (horizontally, vertically, or diagonally) before your opponent does.
 <br>
-## Features :
+## Features ⚙️:
 <ol>
 <li><b>Interactive Board:</b> The game provides a visual grid where players can click on cells to make their moves.</li>
 <li><b>Turn-Based:</b> Players take turns, alternating between “X” and “O.”</li>
 <li><b>Winning Condition:</b> The game detects when a player has won by forming a line of three symbols.</li>
 <li><b>Draw Condition:</b> If all cells are filled and no winner is determined, the game ends in a draw.</li>
-<li><b>Reset Button:</b> Players can start a new game by clicking a “Reset” button.</li>
+<li><b>Reset Button :</b> Players can start a new game by clicking a “Reset” button.</li> 
 </ol>
 
-
-## Implementation :
+## Implementation 👨🏻‍💻:
 <ul>
 <li><b>HTML:</b> The game board is created using an HTML table with clickable cells.</li>
 <li><b>CSS:</b> Styling is applied to the board, cells, and buttons to make the game visually appealing.</li>
@@ -26,12 +25,11 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
   </li>
 </ul>
 
-
-## How to Play :
+## How to Play 🎮:
 <ol>
 <li>Clone the repo and open html file in browser or simply copy the link below and open it in your browser:</li><br>
 
-    https://rajeevranjan5642.github.io/tic-tac-toe/
+  🔗  https://rajeevranjan5642.github.io/tic-tac-toe/
     
 <li>Click on an empty cell to place your symbol (“X” or “O”).</li>
 <li>The game will automatically switch turns.</li>
