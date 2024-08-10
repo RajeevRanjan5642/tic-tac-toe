@@ -39,3 +39,11 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 <br>
 Feel free to share the game with your friends and have fun playing 🎮 Tic Tac Toe ❌⭕ with them.<br>
 If you’d like, you can also add additional features or explore different variations of the game. Happy coding! 😊
+
+## Deployment 🌐
+The project is deployed at github pages:<br>
+🔗
+
+## Preview 👀
+![image](https://github.com/RajeevRanjan5642/tic-tac-toe/blob/main/images/preview.png)
+
