@@ -38,7 +38,6 @@ The Tic Tac Toe game is a classic two-player board game where each player takes 
 <li>The first player to form a line of three symbols wins!</li>
 <li>If no winner is determined, the game ends in a draw.</li>
 </ol>
-<br>
 
 ## Deployment 🌐
 The project is deployed at github pages.<br>
