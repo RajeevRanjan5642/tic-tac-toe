@@ -1,3 +1,5 @@
+![banner](https://github.com/RajeevRanjan5642/tic-tac-toe/blob/main/images/banner.png)
+
 # Tic Tac Toe Game ❌⭕🎮
 
 ## Overview 🔎
